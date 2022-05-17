@@ -1,0 +1,7 @@
+﻿$color: red;
+
+:root {
+	--accent-color: #f60;
+}
+
+$orange: --var(--accent-color);

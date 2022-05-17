@@ -1,0 +1,6 @@
+﻿@use "colors" as col;
+
+body {
+	background-color: col.$color;
+	color: col.$orange;
+}
